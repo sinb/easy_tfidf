@@ -6,10 +6,6 @@
 ```
 sudo pip install jieba
 ```
-再装easy_tfidf
-```
-sudo python setup.py --record record.txt
-```
 
 ##例子:
 ```
